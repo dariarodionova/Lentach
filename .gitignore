@@ -89,3 +89,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea/workspace.xml
+*.iml
+*.xml
+data/likeness.csv
+Source/Lentach_data.csv
